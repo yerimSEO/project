@@ -1,0 +1,13 @@
+마케팅 캠페인 응답률 증가시키기
+- 목적: 모금 캠페인에 가장 적합한 후보를 선별하여 비용대비 수익 극대화 위함
+- 작업 유형: 데이터 전처리, 피처 엔지니어링, 모델링, 검증 절차를 거쳐 적합한 예측모델 생성
+- 사용 툴/언어: Python 
+- 참여도: 20%
+- 성과: 77% 향상 (기존 Revenue 기준)
+
+Increasing marketing campaign response rates
+- Purpose: To select the most suitable model for the fundraising campaign to maximize the cost-benefit ratio
+- Task type: Create an appropriate predictive model through data preprocessing, feature engineering, modeling, and verification procedures
+- Tool/Language used: Python
+- Participation: 20%
+- Performance: 77% improvement (based on existing revenue)
