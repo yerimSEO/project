@@ -1,0 +1,11 @@
+2013년 NYC 공항 비행기 연착 분석
+- 목적: 뉴욕 공항에서 발생하는 연착의 다양한 양상을 분석
+- 작업 유형: 데이터 전처리 및 데이터 분석, Tableau 활용 비쥬얼 인사이트 도출
+- 사용 툴/언어: Tableau, SQL, Python
+- 참여도: 40%
+
+2013 NYC Airport Flight Delay Analysis
+- Purpose: To analyze various aspects of delays occurring at New York airport
+- Type of work: data preprocessing and data analysis, getting visual insights using Tableau
+- Tools/Languages ​​used: Tableau, SQL, Python
+- Participation: 40%
