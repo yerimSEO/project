@@ -1,0 +1,11 @@
+Airbnb 웹 스크랩을 통해 얻은 데이터를 분석해서 인사이트 도출하기
+- 목적: Marseille 지역의 위치/가격/숙소타입과 고객만족도(리뷰) 상관성 분석
+- 작업 유형: 웹 스크랩 (Airbnb API 활용)
+- 사용 툴/언어: Python
+- 참여도: 100%
+
+Analyzing data from Airbnb web scraping to derive insights
+- Purpose: Analysis of the correlation between location/price/accommodation type and customer satisfaction (review) in Marseille area
+- Job Type: Web Scrap (via Airbnb API)
+- Tool/Language used: Python
+- Participation: 100%
